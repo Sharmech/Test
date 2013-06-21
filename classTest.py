@@ -10,9 +10,10 @@ class Player:
 
 
 james = Player()
-noag = Player()
+
+noah = Player()
 
 james.name = "Sharmech"
 
 print(james.greet())
-print(noag.greet())
+print(noah.greet())
